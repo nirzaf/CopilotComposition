@@ -1,0 +1,15 @@
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\DemoProjects.exe
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\DemoProjects.deps.json
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\DemoProjects.runtimeconfig.json
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\DemoProjects.dll
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\ref\DemoProjects.dll
+C:\Users\nirza\DemoProjects\bin\Debug\net6.0\DemoProjects.pdb
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.csproj.AssemblyReference.cache
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.AssemblyInfoInputs.cache
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.AssemblyInfo.cs
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.csproj.CoreCompileInputs.cache
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.dll
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\ref\DemoProjects.dll
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.pdb
+C:\Users\nirza\DemoProjects\obj\Debug\net6.0\DemoProjects.genruntimeconfig.cache
